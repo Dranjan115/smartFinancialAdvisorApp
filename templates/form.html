@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loan Prediction Form</title>
+</head>
+<body>
+    <h2>Loan Approval Predictor</h2>
+    <form action="/predict" method="post">
+        <label>Age: <input type="number" name="age" required></label><br><br>
+        <label>Experience: <input type="number" name="experience" required></label><br><br>
+        <label>Income (in thousands): <input type="number" name="income" required></label><br><br>
+        <label>Family Members: <input type="number" name="family" required></label><br><br>
+        <label>Credit Card Avg: <input type="number" step="0.01" name="ccavg" required></label><br><br>
+        <label>Education Level (1-3): <input type="number" name="education" required></label><br><br>
+        <label>Mortgage: <input type="number" name="mortgage" required></label><br><br>
+
+        <label><input type="checkbox" name="securities_account"> Has Securities Account</label><br>
+        <label><input type="checkbox" name="cd_account"> Has CD Account</label><br>
+        <label><input type="checkbox" name="online"> Uses Online Banking</label><br>
+        <label><input type="checkbox" name="creditcard"> Uses Credit Card</label><br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
