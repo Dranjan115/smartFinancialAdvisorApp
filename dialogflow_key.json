@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smarthelpbot-agc9",
+  "private_key_id": "6a7df00a01beeee99aa6265a7e1af0c9062a66f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKiqJI6ZWtg4OE\nQQ3Tollo6foWeb2bpJ7QUI6oLRApI/Dku+MpMDIPFX4JykH4GXSA0qz0lXIf2e6L\n4JEuJnPMrioQLK9CUEJ/i/VsLR126kd47exR/K7C7lFq57tC4LPbpshUSFIx53tN\nrZ78hi/6XvjtEkp5kxKBPRoAFJR/r6+fDQLl3O1UTeFMhURTaDCX35MIbVsAjmGp\nSF28daK404nvMAvy4i7c7n+/D1pR+xsiPK0+LvBaQasuxPKgVR0/4zKXZfWU5+TT\ni0S0uEc4EBM6nOhr/DrtemmlxDTm5nMF4YvujHycR/AmYb0dVR/loDbkXNnhz1gl\n4/ZoNZi/AgMBAAECggEALcvj/u2GEQo8GhLlj/VVFyJUkHFtfHxgBoU4hHFQBqVg\nSi/roLwLjZqT+Z24heMnkxtPzSvfdrE9vXYFDbTXGTBGRYr9A9cG+jUIxLF8yI8X\noxHVDgK+90eQtEX6cxhAwsk24cvKfgszt7Aq0zl6Lrf7vAsXON8W348TynHc0/Pb\npEB5T1rd+33PLnbZJgtJVtbtlITZ1PWJswRRPJEUTAzOdMRQHeUYirbKRxER27r7\n8SWpzlOeKCq/4lxOjVtw8RKnsNWBZv19BSmMY4Kdf67ArUn93Yjn04a+JRN6O0Yv\n9tFHIffm06aXpX+LMdyEhs/Fao9sdzfFqcHbCv90GQKBgQD6p9gthPjjk5SxvJJD\nfarvW8t8YLvb5XtZuQOklFe7XEs6ywjFo4r2jR5phdq1mKslOHc4QXJssFx51OSU\nLzAw1T3IHHF/aSVZnQQdcrCjzkhXQWPBiB4BZXPatI6d9jzNgyY9R4eoNYpUfbY2\nh73JKYZvAc1DxNav6k78uI7l6QKBgQDO3Cr8PAeuQSeQ3yHEQnBqHY5rTFufHvR5\n58kpvpUtdJQVGiwLdOct8xsOC79MroSLe+MsCDnd+eImwCL8S74RQ/JowL7RA+pY\nyo/v6gk11AnpSXdKOiNj8cKnPChpXMi4rZAGGU5BRZt1HX5hh5Ov2rvoyhwh5aaB\nLjXQyddYZwKBgCk23/zcGHCTG6f98a7XQvwIg/T3kuwdV6LxIQA2xBYynswUBmU4\n9uiDW7TOJaAmcj20gyXk3QOyHAKMVulmuO3OolH9G0xv5YxOnRaafSDyEkMGpXh1\nAToJjHsxpSGkE2tXXTpGQLAP3ab25Lciqrog8dHe4fl6rDJQvJwhXJ3BAoGAKpUy\nGBh3cEyjS3RTbCZNI9sPvVDLr5bcttebFofQB7pu3WU02ernyBK6aArNB4kJaflH\ny4Gp/+L3xghZa1xgNQequButbDOFI2AXf0jLOpR6sdZYwyPysxlKe8irfP0HqNS5\nyDefX1pn5RT8NjGFmnbJpeMtJWE0BHWxyFg0h1MCgYEAtwL6z6RXWAJBxnqS73u0\nU70HZWYElegpuET0t24M+qa7bux5cw4le4/YXz71gaTjpNau8pu3rxpIDb6/SI8M\nIrslJdSRWluJT54POtMY52gZU296htnvMZMN2sGAwAwI7T3/BkkvpYERL5y7pd+R\n2sLvdhHdc/RZo3VjxWNhYlc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartbot-backend@smarthelpbot-agc9.iam.gserviceaccount.com",
+  "client_id": "102786725556126023246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartbot-backend%40smarthelpbot-agc9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
